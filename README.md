@@ -1,5 +1,5 @@
 Systems Administrator turned DevOps Engineer 
-#DevOps #AWS #Bash #Linux #Git #Python #Agile #CI/CD #Networks #IT Systems #Tech
+# DevOps # AWS # Bash # Linux # Git # Python # Agile # CI/CD # Networks # IT Systems # Tech
 
 - Hit me up 📫 onaimuta@gmail.com
 
