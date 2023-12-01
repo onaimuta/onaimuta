@@ -1,5 +1,5 @@
 Tech Enterpreneur 
-#LegalTech #AI #ChatGPT
+#Legal Tech
 
 - Hit me up 📫 onaimuta@gmail.com
 
